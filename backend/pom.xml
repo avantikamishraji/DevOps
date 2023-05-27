@@ -14,7 +14,7 @@
 	<name>projectRegion</name>
 	<description>Project for Spring Boot using Regions.json</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
