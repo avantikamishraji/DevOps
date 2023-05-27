@@ -1,0 +1,10 @@
+com\sap\projectRegion\controller\RegionsController.class
+com\sap\projectRegion\service\TerritoriesService.class
+com\sap\projectRegion\repository\TerritoriesRepository.class
+com\sap\projectRegion\dao\TerritoriesDao.class
+com\sap\projectRegion\model\Territories.class
+com\sap\projectRegion\repository\RegionsRepository.class
+com\sap\projectRegion\model\Regions.class
+com\sap\projectRegion\dao\RegionsDao.class
+com\sap\projectRegion\service\RegionsService.class
+com\sap\projectRegion\ProjectRegionApplication.class

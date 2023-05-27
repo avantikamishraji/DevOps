@@ -1,0 +1,426 @@
+[
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Westboro",
+        "territoryID": "01581"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Bedford",
+        "territoryID": "01730"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Georgetow",
+        "territoryID": "01833"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Boston",
+        "territoryID": "02116"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Cambridge",
+        "territoryID": "02139"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Braintree",
+        "territoryID": "02184"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Providence",
+        "territoryID": "02903"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Hollis",
+        "territoryID": "03049"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Portsmouth",
+        "territoryID": "03801"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Wilton",
+        "territoryID": "06897"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Morristown",
+        "territoryID": "07960"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Edison",
+        "territoryID": "08837"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "New York",
+        "territoryID": "10019"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "New York",
+        "territoryID": "10038"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Mellvile",
+        "territoryID": "11747"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Fairport",
+        "territoryID": "14450"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Philadelphia",
+        "territoryID": "19428"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Neward",
+        "territoryID": "19713"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Rockville",
+        "territoryID": "20852"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Greensboro",
+        "territoryID": "27403"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Cary",
+        "territoryID": "27511"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Columbia",
+        "territoryID": "29202"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Atlanta",
+        "territoryID": "30346"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Savannah",
+        "territoryID": "31406"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Orlando",
+        "territoryID": "32859"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Tampa",
+        "territoryID": "33607"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Eastern",
+                        "regionID": 1
+                    },
+        "territoryDescription": "Louisville",
+        "territoryID": "40222"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Beachwood",
+        "territoryID": "44122"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Findlay",
+        "territoryID": "45839"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Southfield",
+        "territoryID": "48075"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Troy",
+        "territoryID": "48084"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Bloomfield Hills",
+        "territoryID": "48304"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Racine",
+        "territoryID": "53404"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Roseville",
+        "territoryID": "55113"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Northern",
+                        "regionID": 3
+                    },
+        "territoryDescription": "Minneapolis",
+        "territoryID": "55439"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Hoffman Estates",
+        "territoryID": "60179"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Chicago",
+        "territoryID": "60601"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Bentonville",
+        "territoryID": "72716"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Dallas",
+        "territoryID": "75234"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Southern",
+                        "regionID": 4
+                    },
+        "territoryDescription": "Austin",
+        "territoryID": "78759"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Denver",
+        "territoryID": "80202"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Colorado Springs",
+        "territoryID": "80909"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Phoenix",
+        "territoryID": "85014"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Scottsdale",
+        "territoryID": "85251"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Santa Monica",
+        "territoryID": "90405"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Menlo Park",
+        "territoryID": "94025"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "San Francisco",
+        "territoryID": "94105"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Campbell",
+        "territoryID": "95008"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Santa Clara",
+        "territoryID": "95054"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Santa Cruz",
+        "territoryID": "95060"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Bellevue",
+        "territoryID": "98004"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Redmond",
+        "territoryID": "98052"
+    },
+    {
+        "regions":  {
+                        "regionDescription": "Westerns",
+                        "regionID": 2
+                    },
+        "territoryDescription": "Seattle",
+        "territoryID": "98104"
+    }
+]

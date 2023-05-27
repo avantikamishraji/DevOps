@@ -1,0 +1,267 @@
+[
+    {
+        "regionID": 1,
+        "territoryDescription": "Westboro",
+        "territoryID": "01581"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Bedford",
+        "territoryID": "01730"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Georgetow",
+        "territoryID": "01833"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Boston",
+        "territoryID": "02116"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Cambridge",
+        "territoryID": "02139"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Braintree",
+        "territoryID": "02184"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Providence",
+        "territoryID": "02903"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Hollis",
+        "territoryID": "03049"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Portsmouth",
+        "territoryID": "03801"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Wilton",
+        "territoryID": "06897"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Morristown",
+        "territoryID": "07960"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Edison",
+        "territoryID": "08837"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "New York",
+        "territoryID": "10019"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "New York",
+        "territoryID": "10038"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Mellvile",
+        "territoryID": "11747"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Fairport",
+        "territoryID": "14450"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Philadelphia",
+        "territoryID": "19428"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Neward",
+        "territoryID": "19713"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Rockville",
+        "territoryID": "20852"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Greensboro",
+        "territoryID": "27403"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Cary",
+        "territoryID": "27511"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Columbia",
+        "territoryID": "29202"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Atlanta",
+        "territoryID": "30346"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Savannah",
+        "territoryID": "31406"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Orlando",
+        "territoryID": "32859"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Tampa",
+        "territoryID": "33607"
+    },
+    {
+        "regionID": 1,
+        "territoryDescription": "Louisville",
+        "territoryID": "40222"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Beachwood",
+        "territoryID": "44122"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Findlay",
+        "territoryID": "45839"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Southfield",
+        "territoryID": "48075"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Troy",
+        "territoryID": "48084"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Bloomfield Hills",
+        "territoryID": "48304"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Racine",
+        "territoryID": "53404"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Roseville",
+        "territoryID": "55113"
+    },
+    {
+        "regionID": 3,
+        "territoryDescription": "Minneapolis",
+        "territoryID": "55439"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Hoffman Estates",
+        "territoryID": "60179"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Chicago",
+        "territoryID": "60601"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Bentonville",
+        "territoryID": "72716"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Dallas",
+        "territoryID": "75234"
+    },
+    {
+        "regionID": 4,
+        "territoryDescription": "Austin",
+        "territoryID": "78759"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Denver",
+        "territoryID": "80202"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Colorado Springs",
+        "territoryID": "80909"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Phoenix",
+        "territoryID": "85014"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Scottsdale",
+        "territoryID": "85251"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Santa Monica",
+        "territoryID": "90405"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Menlo Park",
+        "territoryID": "94025"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "San Francisco",
+        "territoryID": "94105"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Campbell",
+        "territoryID": "95008"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Santa Clara",
+        "territoryID": "95054"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Santa Cruz",
+        "territoryID": "95060"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Bellevue",
+        "territoryID": "98004"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Redmond",
+        "territoryID": "98052"
+    },
+    {
+        "regionID": 2,
+        "territoryDescription": "Seattle",
+        "territoryID": "98104"
+    }
+]
