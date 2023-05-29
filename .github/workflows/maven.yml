@@ -47,7 +47,7 @@ jobs:
 
       - name: Update dependency graph
         working-directory: backend
-        run:
+        run: |
           git config user.email "2022sp93049@wilp.bits-pilani.ac.in"
           git config user.name "GitHub Actions"
           mvn advanced-security:dependency-graph
